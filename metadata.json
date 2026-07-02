@@ -1,0 +1,6 @@
+{
+  "name": "Vault Underground",
+  "description": "A premium brutalist techwear and streetwear e-commerce archive featuring high-performance footwear, limited drops, and deep urban culture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
